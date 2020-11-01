@@ -51,8 +51,10 @@ input#box{
 }
 
 input#borderValue{
+  font-size: 16px;
   height: 50px;
-  width: 250PX;
+  width: 300PX;
+  border-radius: 16px;
 }
 
 
@@ -88,8 +90,8 @@ input#borderValue{
 
   input#box{
     background-color: #8d99ae;
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
     margin-top: 40px;
   }
 }
