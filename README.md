@@ -2,8 +2,8 @@
 
 A aplicação consiste em uma pré-visualização da alteração das bordas de um input com um botão para copiar os valores para o css!
 
-[](/img/img1.png)
-[](/img/img2.png)
+![](/img/img1.png)
+![](/img/img2.png)
 
 ### Tencologias:
 * CSS
