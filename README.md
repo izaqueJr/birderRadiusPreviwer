@@ -1,4 +1,4 @@
-# BorderRadius Previwer
+# Border-Radius Previwer
 
 A aplicação consiste em uma pré-visualização da alteração das bordas de um input com um botão para copiar os valores para o css!
 
